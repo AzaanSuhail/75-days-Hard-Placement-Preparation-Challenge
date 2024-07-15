@@ -1,0 +1,40 @@
+"75 Days Hard Placement Preparation Challenge 🚀"
+I challenge myself for the next 75 days to prepare for placements, covering all aspects systematically and thoroughly.
+Daily Tasks:
+-------------------------------------------------------------------------------------
+DSA Practice: Continuous problem-solving. 🧩
+DSA Revision: Regular review sessions. 🔄
+DSA Cheated Questions
+-------------------------------------------------------------------------------------
+Development:
+MERN Stack Development: HTML, CSS, JavaScript, React, Express, Redux, MongoDB, Node.js, and deployment. 💻
+-------------------------------------------------------------------------------------
+Project : Creating impressive projects. 🛠️
+-------------------------------------------------------------------------------------
+Aptitude, Reasoning & Puzzles: Essential for many company assessments. 🧠
+-------------------------------------------------------------------------------------
+Core Subjects:
+Operating System ⚙️
+Computer Network 🌐
+Database Management System 📊
+Object-Oriented Programming 🖥️
+-------------------------------------------------------------------------------------
+Contests: Participate in coding contests, upsolve problems, analyze weak areas, and improve. 🏆
+-------------------------------------------------------------------------------------
+Mock Interviews: Crucial practice phase towards the end of preparation. 🎤
+-------------------------------------------------------------------------------------
+Resume: Crafting a standout resume to highlight skills effectively. 📄
+-------------------------------------------------------------------------------------
+Technical MCQs: Fundamental questions from programming languages and core subjects. ❓
+-------------------------------------------------------------------------------------
+Communication: Enhancing communication skills for better interview performance. 💬
+-------------------------------------------------------------------------------------
+General Interview Questions: Preparing unique and structured answers. 🗣️
+-------------------------------------------------------------------------------------
+Networking: Building professional connections. 🤝
+-------------------------------------------------------------------------------------
+Workout: Will be my favorite part. 🏋️‍♂️
+-------------------------------------------------------------------------------------
+- I am not doing this for showoff but for my self-improvement and growth. I will document my journey daily. It's going to be challenging but rewarding. 
+- I have collected all the structured paths and resources from where to learn and how much to learn, I have planned each and everything from scratch. I made my own path.
+- If you are from tier 5 college like me where the on Campus placement is negligible then you have to put extra effort and rest depends on luck.
