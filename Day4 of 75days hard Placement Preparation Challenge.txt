@@ -1,0 +1,10 @@
+"Day 4 of 75-days Hard Placement Preparation Challenge"
+Today was my 4th day of my challenge, and I successfully completed all tasks. 🎉
+It was challenging, but I completed it successfully. 💪
+📘 DSA revision ✅ Revised backbone of DSA, arrays and based questions
+📚 DSA practice ✅ LeetCode Q151 and Remove duplicates 
+💻 Development ✅ Learned deeply JavaScript concepts like rest parameter, closure and many more
+🌐 Core Subject ✅ Computer Network - Difference between OSI and TCP/IP reference model ,HTTP, HTTPS, DNS one of most asked question in interview
+🧠 Aptitude & Reasoning ✅ Time and work based questions. 
+🤝Networking ✅
+🏋️Home Workout ✅
