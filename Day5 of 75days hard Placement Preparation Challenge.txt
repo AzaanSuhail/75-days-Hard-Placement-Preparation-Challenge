@@ -1,0 +1,12 @@
+"Day 5 of 75-days Hard Placement Preparation Challenge"
+Today was my 5th day of my challenge, and I successfully completed all tasks. 🎉
+I started the day late. It was challenging, but I completed it successfully. 💪
+📘 DSA revision ✅ Revised topics pairs of array , subarrays , and based questions like subarray with sum equal to k and many more.
+📚 DSA practice ✅ Reverse an array in groups, count of subarrays, LeetCode 560
+💻 Development ✅ Learned JavaScript 
+🌐 Core Subject ✅ Computer Network - TCP protocol, UDP protocol , difference between TCP and UDP protocol, SMTP, ARP, FTP, MAC address and relation with NIC and difference between MAC & IP address
+🧠 Aptitude & Reasoning ✅ Time and work fully completed
+🤝Networking ✅
+🏋️Home Workout ✅
+
+hashtag#75dayChallenge hashtag#Consistency hashtag#Development hashtag#DSA hashtag#LeetCode hashtag#HomeWorkout hashtag#ComputerNetwork
