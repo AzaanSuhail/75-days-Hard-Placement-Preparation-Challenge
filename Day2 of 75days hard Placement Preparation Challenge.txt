@@ -1,0 +1,12 @@
+"Day 2 of 75-days hard Placement Preparation Challenge"
+Today was my 2nd day of my challenge, and I successfully completed all tasks. 🎉
+It was challenging, but I completed it successfully. 💪
+📘 DSA revision ✅ Revised all types of patterns, type promotion,type conversion & type casting. 
+📚 DSA practice ✅ LeetCode Ques 2 and 445 , power of a number using recursion also done cheated question is number of power of 4 using recursion.
+💻 Development ✅ Learned deeply JavaScript object, function borrowing, call, apply and bind concepts. 
+🌐 Core Subject ✅ Computer Network - Learned about VPN and classes if IP4 addressing.
+🧠 Aptitude & Reasoning ✅ Time and work based questions. 
+🤝Networking ✅
+🏋️ Workout ✅Trained triceps and biceps.
+
+hashtag#PlacementPreparation hashtag#DSA hashtag#LeetCode hashtag#Recursion hashtag#JavaScript hashtag#Development hashtag#ComputerNetworks hashtag#Aptitute hashtag#Networking hashtag#Workout hashtag#HardWorkPaysOff hashtag#75daysChallenge
