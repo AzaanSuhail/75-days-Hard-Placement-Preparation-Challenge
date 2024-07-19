@@ -1,0 +1,12 @@
+"Day 3 of 75-days Hard Placement Preparation Challenge"
+Today was my 3rd day of my challenge, and I successfully completed all tasks. 🎉
+It was challenging, but I completed it successfully. 💪
+📘 DSA revision ✅ Revised backbone of DSA, arrays and based questions
+📚 DSA practice ✅ Tower of Hanoi and Construct BST from parent array
+💻 Development ✅ Learned deeply JavaScript pure functions, first class function, higher order function which have use case in real life project
+🌐 Core Subject ✅ Computer Network - Learned OSI reference model and TCP/IP model
+🧠 Aptitude & Reasoning ✅ Time and work based questions. 
+🤝Networking ✅
+🏋️Home Workout ✅Trained Abbs
+
+hashtag#PlacementPreparation hashtag#DSA hashtag#Development hashtag#75daysChallenge
