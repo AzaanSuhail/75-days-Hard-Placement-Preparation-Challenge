@@ -1,0 +1,14 @@
+"Day 6 of 75-days Hard Placement Preparation Challenge"
+Today was my 6th day of my challenge, and I successfully completed all tasks. 🎉
+I started the day late. It was challenging, but I completed it successfully. 💪
+📘 DSA revision ✅ Revised concepts like segregate 0's and 1's, Binary array
+sorting, move all the negative elements toward the end of array, Maximum consecutive 1's
+📚 DSA practice ✅ Largest subarray with sum equal to k and largest subarray with sum equal to 0 
+📘DSA cheated question ✅ sort a stack using recursion
+💻 Development ✅ Learned JavaScript 
+🌐 Core Subject ✅ Computer Network MCQ
+🧠 Aptitude & Reasoning ✅ AP & GP
+🤝Networking ✅
+🏋️Home Workout : Muscles are in recovery.. mode
+
+hashtag#75dayChallenge hashtag#Consistency hashtag#Development hashtag#LeetCode hashtag#ComputerNetwork
