@@ -1,0 +1,11 @@
+"Day 8 of 75-days Hard Placement Preparation Challenge"
+Today was my 8th day of my challenge, and I successfully completed all tasks. 🎉
+I started the day late. It was challenging, but I completed it successfully. 💪
+📘 DSA revision ✅ Revised missing no. from N natural no. , transition point using Binary Search, Moore voting algorithm,Union of two sorted arrays, Cyclically rotate an array, alternate positive & negative element, Kadan's Algorithm
+📚 DSA practice ✅ LeetCode Question 1752, 2404, 203, 229, 189
+📘DSA cheated question ✅ Count primes using sieve of Eratosthenes and Remove linked list element.
+💻 Development ✅ Learned JavaScript 
+🌐 Core Subject ✅ Computer Network Revision
+🧠 Aptitude & Reasoning ✅ AP & GP
+🤝Networking ✅
+🏋️Home Workout ✅
