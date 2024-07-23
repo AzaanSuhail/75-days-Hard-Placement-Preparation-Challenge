@@ -1,0 +1,10 @@
+"Day 9 of 75-days Hard Placement Preparation Challenge"
+Today was my 9th day of my challenge, and I successfully completed all tasks. 🎉
+It was quite tough, but I completed it successfully. 💪
+📘 DSA revision ✅ Revised triplet sum, missing & repeating number, Leader in an array, Pythagorian triplet by three different approaches
+📚 DSA practice ✅ LeetCode Question 88, 18 , 881
+💻 Development ✅ Learned DOM, event bubbling, event capturing, event delegation, difference between defer and async.
+🌐 Core Subject ✅ Computer Network Revision
+🧠 Aptitude & Reasoning ✅ AP & GP fully completed
+🤝Networking ✅
+🏋️Home Workout ✅
