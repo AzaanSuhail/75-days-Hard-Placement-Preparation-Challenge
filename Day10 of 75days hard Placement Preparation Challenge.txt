@@ -1,0 +1,11 @@
+"Day 10 of 75-days Hard Placement Preparation Challenge"
+Today was my 10th day of my challenge, and I successfully completed all tasks. 🎉
+It was quite tough, but I completed it successfully. 💪
+📘 DSA revision ✅ Revised boundary traversal of matrix, print matrix in a snake pattern, print matrix in a snake pattern from the last column, matrix in spiral order, reverse spiral order, rotate matrix clockwise by 90deg, rotate matrix anticlockwise by 90deg
+📚 DSA practice ✅ Kth element of spiral order of a matrix
+📘DSA cheated question✅Tower of Hanoi using recursion, second largest element by all approaches. 
+💻 Development ✅ Worked on my JavaScript Quiz Application CLI project
+🌐 Core Subject ✅ Computer Network Revision
+🧠 Aptitude & Reasoning ✅ Pipes & Cisterns
+🤝Networking ✅
+🏋️Home Workout ✅
