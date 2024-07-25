@@ -1,0 +1,11 @@
+"Day 11 of 75-days Hard Placement Preparation Challenge"
+Today was my 11th day of my challenge, and I successfully completed all tasks. 🎉
+It was quite tough, but I completed it successfully. 💪
+📖 DSA revision ✅ Revised set matrix zero, largest local values in a matrix, Dynamic programming concepts
+🧑‍💻 DSA practice ✅ LeetCode 73 and 509 
+📘DSA cheated Question✅ Remove duplicates from sorted array 
+💻 Project✅ Completed my Quizify project
+🌐 Core Subject ✅ Computer Network Revision
+🧠 Aptitude & Reasoning ✅ Pipes & Cisterns
+🤝Networking ✅
+🏋️Home Workout ✅
